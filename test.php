@@ -1,1 +1,2 @@
-fgdfdfgfdg
+<?php
+echo"Edited by Zuko.";
