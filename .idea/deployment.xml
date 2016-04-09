@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_CONTENT" createEmptyFolders="true" traceLevel="DETAILS" exclude=".svn;.cvs;.idea;.DS_Store;.git*;.hg">
+  <component name="PublishConfigData">
     <serverData>
       <paths name="188.166.176.19">
         <serverdata>
