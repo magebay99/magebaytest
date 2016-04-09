@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceKeyword" value="\W+MODIFIED\s*\S*" />
+    <option name="keyword" value="\W+MODIFIED\s*\S*" />
+    <option name="myName" value="Modify" />
+    <option name="notice" value="MODIFIED : &amp;#36;today.&amp;#36;day &amp;#36;month &amp;#36;year&#10;Copyright 2012 - &amp;#36;year Magebay.com . All Rights Reserved" />
+  </copyright>
+</component>

@@ -1,0 +1,21 @@
+<component name="CopyrightManager">
+  <settings default="Modify">
+    <module2copyright>
+      <element module="All" copyright="Modify" />
+    </module2copyright>
+    <LanguageOptions name="PHP">
+      <option name="fileTypeOverride" value="3" />
+      <option name="relativeBefore" value="false" />
+      <option name="lenBefore" value="20" />
+      <option name="lenAfter" value="20" />
+    </LanguageOptions>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="relativeBefore" value="false" />
+      <option name="separateBefore" value="true" />
+      <option name="separateAfter" value="true" />
+      <option name="lenBefore" value="60" />
+      <option name="lenAfter" value="60" />
+      <option name="box" value="true" />
+    </LanguageOptions>
+  </settings>
+</component>
